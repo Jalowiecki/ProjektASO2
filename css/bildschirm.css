@@ -3,7 +3,7 @@
 .Hintergrund{background-image: url(../Software/Bilder/Hintergrund_Slider.jpg);
 background-repeat: no-repeat;}
 #footerIcon{
-    color: #f4511e;
+    color: blueviolet;
 }
 body {
       font: 400 15px Lato, sans-serif;
@@ -42,17 +42,17 @@ body {
       background-color: #f6f6f6;
   }
   .button{
-    background-color: #f4511e;
+    background-color: blueviolet;
     font-size: large;
     color: #fff;
 
   }
   .logo-small {
-      color: #f4511e;
+      color: blueviolet;
       font-size: 50px;
   }
   .logo {
-      color: #f4511e;
+      color: blueviolet;
       font-size: 200px;
   }
   .thumbnail {
@@ -67,13 +67,13 @@ body {
   }
   .carousel-control.right, .carousel-control.left {
       background-image: none;
-      color: #f4511e;
+      color: blueviolet;
   }
   .carousel-indicators li {
-      border-color: #f4511e;
+      border-color: blueviolet;
   }
   .carousel-indicators li.active {
-      background-color: #f4511e;
+      background-color: blueviolet;
   }
   .item h4 {
       font-size: 19px;
@@ -86,7 +86,7 @@ body {
       font-style: normal;
   }
   .panel {
-      border: 1px solid #f4511e; 
+      border: 1px solid blueviolet; 
       border-radius:0 !important;
       transition: box-shadow 0.5s;
   }
@@ -94,13 +94,13 @@ body {
       box-shadow: 5px 0px 40px rgba(0,0,0, .2);
   }
   .panel-footer .btn:hover {
-      border: 1px solid #f4511e;
+      border: 1px solid blueviolet;
       background-color: #fff !important;
-      color: #f4511e;
+      color: blueviolet;
   }
   .panel-heading {
       color: #fff !important;
-      background-color: #f4511e !important;
+      background-color: blueviolet !important;
       padding: 25px;
       border-bottom: 1px solid transparent;
       border-top-left-radius: 0px;
@@ -120,11 +120,11 @@ body {
   }
   .panel-footer .btn {
       margin: 15px 0;
-      background-color: #f4511e;
+      background-color: blueviolet;
       color: #fff;
   }
-.farbe{background-color: #f4511e;
-border-color: #f4511e;}
+.farbe{background-color: blueviolet;
+border-color: blueviolet;}
   .navbar {
       margin-bottom: 0;
       background-color: blueviolet;
@@ -140,7 +140,7 @@ border-color: #f4511e;}
       color: #fff !important;
   }
   .navbar-nav li a:hover, .navbar-nav li.active a {
-      color: #f4511e !important;
+      color: blueviolet !important;
       background-color: #fff !important;
   }
   .navbar-default .navbar-toggle {
@@ -150,7 +150,7 @@ border-color: #f4511e;}
   footer .glyphicon {
       font-size: 20px;
       margin-bottom: 20px;
-      color: #f4511e;
+      color: blueviolet;
   }
   .slideanim {visibility:hidden;}
   .slide {
@@ -195,6 +195,6 @@ border-color: #f4511e;}
         font-size: 150px;
     }
   }
-.Ueberschrift{background-color: #f4511e;
+.Ueberschrift{background-color: blueviolet;
 color:white;
 width: 270px;}
