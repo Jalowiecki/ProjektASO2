@@ -25,7 +25,7 @@ body {
       margin-bottom: 30px;
   }  
   .jumbotron {
-      background-color: #f4511e;
+      background-color: blueviolet;
       padding: 100px 0px;
       color: #fff;
       
@@ -127,7 +127,7 @@ body {
 border-color: #f4511e;}
   .navbar {
       margin-bottom: 0;
-      background-color: #f4511e;
+      background-color: blueviolet;
       z-index: 9999;
       border: 0;
       font-size: 12px !important;
